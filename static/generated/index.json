@@ -8,6 +8,7 @@
     "filename": "/generated/image-a-serene-lavender-field-at-sunset-with-a.webp"
   },
   {
+<<<<<<< HEAD
     "prompt": "A professional headshot of Dr. Priya Mehta, an Indian woman who is an AI researcher, captured in a lab setting. She exudes confidence, with a background that includes lab equipment and scientific elements, yet remains focused on her. The lighting is natural and warm, highlighting her features elegantly.",
     "filename": "/generated/image-a-professional-headshot-of-dr-priya-meht.webp"
   },
@@ -46,5 +47,21 @@
   {
     "prompt": "A professional headshot of Rithika Kacham, founder, captured in a thoughtfully designed office. Her expression is warm and welcoming, conveying her expertise and leadership. The environment blends creativity with professionalism, featuring natural lighting and elements that suggest a sophisticated and curated space.",
     "filename": "/generated/image-a-professional-headshot-of-rithika-kacha.webp"
+=======
+    "prompt": "A diverse group of researchers engaged in a collaborative discussion at a modern workspace. The team is gathered around a table, with a variety of documents and papers spread out. The environment is filled with natural light from large windows, and there's a green plant in the corner to add a touch of nature. Each member is focused and animated, exchanging ideas and insights, creating a dynamic and interactive atmosphere.",
+    "filename": "/generated/image-a-diverse-group-of-researchers-engaged-i.webp"
+  },
+  {
+    "prompt": "A professional headshot of a young Indian woman CEO, smiling with confidence, dressed in elegant business attire. Her posture is poised, with a soft, neutral background that suggests a corporate environment, like an office. The lighting should be flattering, highlighting her features while maintaining a natural look.",
+    "filename": "/generated/image-a-professional-headshot-of-a-young-india.webp"
+  },
+  {
+    "prompt": "A professional headshot of a young Indian man co-founder, smiling confidently, dressed in smart business attire. His expression conveys assurance and leadership. The background should be subtle and neutral, evoking the ambiance of a professional setting without any specific details, with soft lighting to enhance the image's warmth and approachability.",
+    "filename": "/generated/image-a-professional-headshot-of-a-young-india.webp"
+  },
+  {
+    "prompt": "A group of researchers in a modern, spacious laboratory. The room is filled with natural light and has large windows. Researchers are gathered around a table, engaged in lively discussion, with some taking notes and others gesturing as they speak. The atmosphere is collaborative and focused. The researchers are of diverse backgrounds, showcasing a mix of genders and ethnicities, all wearing casual professional attire. The lab has a clean, organized look with shelves holding books and models related to their research.",
+    "filename": "/generated/image-a-group-of-researchers-in-a-modern-spaci.webp"
+>>>>>>> 3f08d8918c3c0027f40bf204ac97de65ee0afe8e
   }
 ]

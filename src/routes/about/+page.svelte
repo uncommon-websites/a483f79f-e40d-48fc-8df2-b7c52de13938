@@ -28,7 +28,7 @@
 <SecondaryHero
 	title="Teaching AI to think with judgment"
 	subtitle="Expert-curated data that brings human-level creative reasoning to foundation models"
-	imageSrc="https://www.unc.mn/image-placeholder.svg"
+	imageSrc="/generated/image-a-diverse-team-of-researchers-engaged-in.webp"
 />
 
 <!-- Story Section -->
@@ -53,13 +53,13 @@
 			name: "Rithika Kacham",
 			position: "CEO & Founder",
 			bio: "Leading Verita AI's mission to bring human-level creative judgment to foundation models through expert-curated training data.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+			image: "/generated/image-a-professional-headshot-of-rithika-kacha.webp"
 		},
 		{
 			name: "Rishi Kalakuntla",
 			position: "Co-Founder",
 			bio: "Building the technical infrastructure that enables creative professionals to teach AI models subjective reasoning across modalities.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+			image: "/generated/image-a-professional-headshot-of-rishi-kalakun.webp"
 		}
 	]}
 />
@@ -69,4 +69,5 @@
 	title="Ready to teach your models better judgment?"
 	subtitle="Let's elevate your training data"
 	description="Join leading foundation model labs already using Verita AI's expert-curated multimodal data to train models with human-level creative reasoning."
+	imageSrc="/generated/image-a-professional-woman-ai-researcher-stand.webp"
 />

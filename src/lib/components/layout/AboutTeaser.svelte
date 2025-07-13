@@ -21,9 +21,9 @@ A minimalist teaser for the about page.
 
 	// Data
 	const teamMember: TeamMember = {
-		name: "Alex Morgan",
+		name: "Rithika Kacham",
 		role: "Founder & CEO",
-		image: "https://www.unc.mn/image-placeholder.svg"
+		image: "/generated/image-a-professional-headshot-of-rithika-kacha.webp"
 	};
 </script>
 

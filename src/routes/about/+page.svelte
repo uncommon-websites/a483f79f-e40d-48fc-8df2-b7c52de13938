@@ -11,94 +11,62 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Expert curation",
+			description: "We believe quality data comes from domain experts, not crowds."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Technical precision",
+			description: "Building tools and workflows designed specifically for subjective reasoning."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Research impact",
+			description: "Enabling breakthrough capabilities in the world's most advanced AI models."
 		}
 	];
 </script>
 
 <SecondaryHero
-	generating
-	title="Solving world hunger"
-	subtitle="one step at a time"
+	title="Teaching AI to think with judgment"
+	subtitle="Expert-curated data that brings human-level creative reasoning to foundation models"
 	imageSrc="https://www.unc.mn/image-placeholder.svg"
 />
 
 <!-- Story Section -->
 <Story
-	generating
 	paragraphs={[
-		"We started in 2018 with a simple goal: make helpful tech that people actually need. While many chase profits, we chose to do things differently.",
-		"Beyond making good products, we care about doing the right thing, being kind to our planet, and making sure everyone can use what we build. That's our compass.",
-		"From day one, we've asked ourselves: 'Does this actually help people?' This question gets us through tough calls and shapes who we are. We're playing the long game here.",
-		"We think about how our work affects real people's lives. We build tech that brings people together, keeps your information safe, and treats everyone fairly. When we stick to these basics, good things happen."
+		"The best AI models struggle with something humans do naturally—understanding taste, nuance, and subjective quality. While foundation model labs push the boundaries of what's possible, their training data often lacks the creative judgment that separates good from extraordinary. We founded Verita AI because we saw brilliant researchers hitting walls not from technical limitations, but from data that couldn't teach machines how to think with discernment.",
+		"Drawing from our experience scaling data operations at companies like Scale AI, we knew the solution wasn't more data—it was better curation. We built something different: a network of creative professionals who understand subjective reasoning across text, image, audio, and video. Film editors who know narrative flow, designers who understand visual harmony, writers who grasp tonal subtlety. These experts don't just label data; they teach machines the kind of judgment that can't be crowdsourced.",
+		"Today, leading foundation model labs trust Verita AI to deliver the multimodal training data that enables human-level creative reasoning in their models. We're not just processing millions of annotations monthly—we're helping define what the next generation of AI will be capable of understanding. Because when you teach machines to recognize quality, beauty, and intent, you unlock possibilities that pure pattern recognition never could."
 	]}
 />
 
 <!-- Our Culture Section -->
-<Culture {values} generating />
+<Culture {values} />
 
 <!-- StakeholderGrid Section -->
 <StakeholderGrid
-	generating
 	stakeholderType="team"
 	title="Our team."
-	subtitle="Your partners in innovation."
+	subtitle="Experienced builders transforming AI training data."
 	stakeholders={[
 		{
-			name: "Alex Morgan",
-			position: "Founder & CEO",
-			bio: "Started the company with a vision to transform the industry through innovative solutions.",
+			name: "Rithika Kacham",
+			position: "CEO & Founder",
+			bio: "Leading Verita AI's mission to bring human-level creative judgment to foundation models through expert-curated training data.",
 			image: "https://www.unc.mn/image-placeholder.svg"
 		},
 		{
-			name: "Jamie Chen",
-			position: "Chief Design Officer",
-			bio: "Award-winning designer with a passion for creating intuitive and beautiful experiences.",
+			name: "Rishi Kalakuntla",
+			position: "Co-Founder",
+			bio: "Building the technical infrastructure that enables creative professionals to teach AI models subjective reasoning across modalities.",
 			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Taylor Wright",
-			position: "Head of Engineering",
-			bio: "Technology enthusiast focused on building scalable systems that make a difference.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		}
-	]}
-/>
-
-<StakeholderGrid
-	generating
-	stakeholderType="investor"
-	title="Backed by the best."
-	subtitle="Point Nine, TSIC and others"
-	stakeholders={[
-		{
-			name: "Point Nine Capital",
-			image: "https://cdn.brandfetch.io/pointnine.com/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7"
-		},
-		{
-			name: "TSIC Ventures",
-			image: "https://cdn.brandfetch.io/tiny.vc/w/400/h/400/logo?c=1a2b3c4d5e"
-		},
-		{
-			name: "Sequoia Capital",
-			image: "https://cdn.brandfetch.io/sequoiacap.com/w/400/h/400/logo"
 		}
 	]}
 />
 
 <!-- CTA Section -->
 <CallToAction
-	generating
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Ready to teach your models better judgment?"
+	subtitle="Let's elevate your training data"
+	description="Join leading foundation model labs already using Verita AI's expert-curated multimodal data to train models with human-level creative reasoning."
 />

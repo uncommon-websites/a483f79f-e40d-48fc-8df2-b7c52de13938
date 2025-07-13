@@ -1,7 +1,7 @@
 export const CONFIG = {
-	companyName: "Company",
-	description: "Description",
+	companyName: "Verita AI",
+	description: "Human-level creative judgment for AI training data. We deliver expert-curated multimodal training data that teaches machines taste, nuance, and subjective reasoning across text, image, audio, and video.",
 	image: "/og.png",
-	url: "https://example.com",
-	fontFamily: "Inter Variable"
+	url: "https://verita.ai",
+	fontFamily: "Inter Tight"
 };

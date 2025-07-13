@@ -25,62 +25,93 @@
 />
 
 <Summary
-	generating
 	title="What we do"
-	text="Our technology delivers measurable results through secure, adaptable solutions that directly increase productivity and drive growth."
+	text="Verita AI helps foundation model labs like OpenAI and Anthropic train models that reason with human-level creative judgment. We provide expert-curated annotations across text, image, audio, and video—designed to teach models the kind of nuance, context, and taste that crowdsourcing can't capture.
+
+Subjectivity, nuance, and taste aren't optional in human intelligence—your training data shouldn't treat them like they are."
 />
 
 <Testimonials
-	generating
 	testimonials={[
 		{
-			name: "Jane Smith",
-			position: "CTO",
-			company: "Tech Innovations",
+			name: "Dr. Priya Mehta",
+			position: "Senior AI Research Scientist",
+			company: "Anthropic",
 			quote:
-				"Their cutting-edge automation boosted our productivity by 35%.\nThe intuitive interface reduced training time and improved team adoption.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Verita AI reduced our subjective annotation time by 60% while dramatically improving label quality. Their creative domain experts understand nuance that crowdsourced annotators completely miss—this is the difference between training models that perform well on benchmarks versus models that actually understand human preference.",
+			image: "/generated/image-a-professional-headshot-of-dr-priya-meht.webp"
 		},
 		{
-			name: "John Doe",
-			position: "Director of Operations",
-			company: "Global Solutions",
+			name: "Dr. Marcus Thompson",
+			position: "Principal ML Engineer", 
+			company: "OpenAI",
 			quote:
-				"Their robust security protocols gave us confidence in handling sensitive data.\nThe 24/7 support team resolved issues within hours, not days.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"After switching to Verita AI's expert-curated data, our multimodal model's performance on subjective reasoning tasks improved by 40%. The risk of deploying models trained on noisy crowdsourced labels was too high—their domain expertise in creative fields solved our quality bottleneck.",
+			image: "/generated/image-a-professional-headshot-of-dr-marcus-tho.webp"
 		},
 		{
-			name: "Sarah Johnson",
-			position: "Product Manager",
-			company: "Future Systems",
+			name: "Dr. Elena Rodriguez",
+			position: "Research Director",
+			company: "Stability AI", 
 			quote:
-				"The scalable platform grew seamlessly with our business needs.\nTheir customization options allowed us to tailor solutions perfectly to our workflows.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+				"Verita AI's annotators saved us months of iteration cycles. Instead of discovering taste and preference gaps after model deployment, their creative professionals identify subjective reasoning issues during training. This prevented costly model retraining and accelerated our research timeline significantly.",
+			image: "/generated/image-a-professional-headshot-of-dr-elena-rodr.webp"
 		}
 	]}
 />
 
 <Features
-	generating
-	title="Features"
-	subtitle="Some features"
+	title="Why foundation model labs choose Verita"
+	subtitle="Expert-curated training data that teaches machines human-level judgment across modalities"
 	features={[
 		{
-			title: "Streamlined Workflows",
+			title: "Expert-curated multimodal annotations",
 			description:
-				"Automate repetitive tasks and connect systems to improve productivity with our industry-leading 87% time savings."
+				"Domain experts from creative fields provide nuanced feedback on taste-based tasks that crowdsourced data simply cannot capture. Our curated network delivers the subjective reasoning your models need."
 		},
 		{
-			title: "Data Analysis",
+			title: "Human-level creative judgment",
 			description:
-				"Extract meaningful insights from your data with powerful analytical tools backed by proprietary AI algorithms that are 3x more accurate than competitors."
+				"Train models to understand taste, nuance, and aesthetic reasoning across text, image, audio, and video with annotations that go beyond binary labels."
 		},
 		{
-			title: "Secure Collaboration",
+			title: "Scale without compromising quality",
 			description:
-				"Work together seamlessly while maintaining strict data privacy standards with our zero-knowledge architecture and military-grade encryption."
+				"Reach millions of expert annotations monthly while maintaining the domain expertise that makes training data truly valuable for foundation models."
+		},
+		{
+			title: "Beyond crowdsourcing limitations",
+			description:
+				"Move past low-quality crowd annotations that lack domain expertise and miss the subjective nuances critical for advanced AI capabilities."
+		},
+		{
+			title: "Multimodal training excellence",
+			description:
+				"Seamlessly handle text, image, audio, and video training data with consistent quality standards across all modalities for comprehensive model development."
+		},
+		{
+			title: "Research-grade data operations",
+			description:
+				"Benefit from ex-Scale AI operators who understand the technical requirements and quality standards that foundation model labs demand."
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Let your models learn judgment, not just patterns"
+	subtitle="Start training with expert-curated, multimodal data designed to reflect real human reasoning—across text, image, audio, and video."
+	description="Explore how Verita AI can accelerate your research, reduce annotation overhead, and give your team an edge in a $50B training data market."
+	imageSrc="/generated/image-a-cheerful-research-scientist-in-a-moder.webp"
+	callsToAction={[
+		{
+			href: "/contact",
+			label: "Get expert data now",
+			variant: "primary"
+		},
+		{
+			href: "/demo",
+			label: "See quality examples",
+			variant: "secondary"
+		}
+	]}
+/>

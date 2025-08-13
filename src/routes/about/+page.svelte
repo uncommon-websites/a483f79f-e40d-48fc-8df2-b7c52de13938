@@ -11,16 +11,16 @@
 	// Constants
 	const values = [
 		{
-			title: "Innovation",
-			description: "Constantly challenging the status quo to create better solutions."
+			title: "Excellence in data",
+			description: "We don't just label—we curate. Every annotation is backed by domain expertise, real-world experience, and a commitment to capturing subjective nuance with precision."
 		},
 		{
-			title: "Integrity",
-			description: "Building trust through transparent actions and honest communication."
+			title: "Innovation through multimodal training",
+			description: "We go beyond conventional pipelines by designing workflows that reflect the complexity of human perception across textual, visual, auditory, and cinematic formats."
 		},
 		{
-			title: "Impact",
-			description: "Measuring our success by the positive change we create for our clients."
+			title: "Partnership with creative minds",
+			description: "We collaborate with artists, critics, and craftspeople from across disciplines—not as a source of labor, but as co-creators of better AI systems."
 		}
 	];
 </script>
@@ -47,52 +47,27 @@
 <StakeholderGrid
 	stakeholderType="team"
 	title="Our team."
-	subtitle="Your partners in innovation."
+	subtitle="Ex-Scale AI operators with creative partners."
 	stakeholders={[
 		{
-			name: "Alex Morgan",
-			position: "Founder & CEO",
-			bio: "Started the company with a vision to transform the industry through innovative solutions.",
-			image: "https://www.unc.mn/image-placeholder.svg"
+			name: "Rithika Kacham",
+			position: "CEO",
+			bio: "Leading the mission to teach AI human-level creative judgment through expert-curated multimodal training data.",
+			image: "/generated/image-a-professional-headshot-of-a-young-india.webp"
 		},
 		{
-			name: "Jamie Chen",
-			position: "Chief Design Officer",
-			bio: "Award-winning designer with a passion for creating intuitive and beautiful experiences.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		},
-		{
-			name: "Taylor Wright",
-			position: "Head of Engineering",
-			bio: "Technology enthusiast focused on building scalable systems that make a difference.",
-			image: "https://www.unc.mn/image-placeholder.svg"
-		}
-	]}
-/>
-
-<StakeholderGrid
-	stakeholderType="investor"
-	title="Backed by the best."
-	subtitle="Point Nine, TSIC and others"
-	stakeholders={[
-		{
-			name: "Point Nine Capital",
-			image: "https://cdn.brandfetch.io/pointnine.com/w/400/h/400/logo?c=1id_elLz2Bd5Ej-dWo7"
-		},
-		{
-			name: "TSIC Ventures",
-			image: "https://cdn.brandfetch.io/tiny.vc/w/400/h/400/logo?c=1a2b3c4d5e"
-		},
-		{
-			name: "Sequoia Capital",
-			image: "https://cdn.brandfetch.io/sequoiacap.com/w/400/h/400/logo"
+			name: "Rishi Kalakuntla",
+			position: "Co-Founder",
+			bio: "Building the infrastructure and tools that enable creative professionals to train AI models with taste and nuance.",
+			image: "/generated/image-a-professional-portrait-of-a-young-india.webp"
 		}
 	]}
 />
 
 <!-- CTA Section -->
 <CallToAction
-	title="Ready to collaborate?"
-	subtitle="Let's create something amazing"
-	description="Join the companies already leveraging our expertise to transform their digital presence and achieve their business goals."
+	title="Want AI to reason more like a human?"
+	subtitle="Let's build smarter models together"
+	description="Tell us what you're building. If your latest model needs better intuition, sensory understanding, or taste-level differentiation, we can help. Reach out to see how our expert-curated annotations can shape more aligned and capable foundation models."
+	imageSrc="/generated/image-a-group-of-researchers-in-a-modern-spaci.webp"
 />

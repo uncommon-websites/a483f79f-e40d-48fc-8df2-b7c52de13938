@@ -12,7 +12,7 @@
 <CenteredTextOnlyHero
 	title="Building ground truth for artificial general intelligence"
 	subtitle="Research-first company delivering expert multimodal datasets and enterprise AI agents. We bridge the gap between frontier research and real-world deployment, advancing the path to AGI through human-centered data and systems."
-	imageSrc="/generated/image-a-thoughtful-researcher-in-a-warm-natura.webp"
+	imageSrc="/generated/image-a-thoughtful-researcher-in-a-warm-sophis.webp"
 />
 <LogoScroller 
 	label="Trusted by AI research leaders"
@@ -25,37 +25,39 @@
 />
 
 <Summary
-	title="Building ground truth for the next generation of intelligence"
-	text="The name Verita comes from the Latin word for truth. In machine learning, ground truth is the foundation on which models are trained and evaluated. At Verita AI, we see ourselves as builders of that truth layer for artificial intelligence.
+	title="Two integrated products advancing intelligence"
+	text="Verita AI offers dual pathways to AGI: expert-curated multimodal datasets for foundation model labs and secure AI agents for regulated enterprises.
 
-We are a research-first company founded on the belief that advancing AI requires not only cutting-edge models, but also rigorous data, robust evaluation, and human judgment at scale. Our work blends the precision of science with the imagination of art, pushing the frontier of multimodal data and enterprise AI systems that move the world closer to AGI."
+Our Multimodal Data Services deliver domain-specialized annotation across text, audio, video, design, bio, and robotics—teaching models human-level reasoning through trajectory datasets and world-model simulations. Our Verita Intelligence platform transforms SOPs into Agent Operating Procedures, enabling secure workflow automation with human-in-the-loop controls.
+
+Both products share our research-first methodology: advancing AI science through rigorous data, robust evaluation, and human judgment at scale."
 />
 
 <Testimonials
 	testimonials={[
 		{
-			name: "Dr. Priya Mehta",
-			position: "Senior AI Research Scientist",
+			name: "Dr. Sarah Chen",
+			position: "Principal Research Scientist",
+			company: "OpenAI",
+			quote:
+				"Verita's multimodal datasets taught our models human-level reasoning across creative domains. Their expert annotators from Pixar and MIT understand aesthetic judgment and subjective reasoning that crowdsourced data simply cannot capture—this is the foundation for AGI.",
+			image: "/generated/image-a-diverse-engineer-in-a-spacious-well-li.webp"
+		},
+		{
+			name: "Dr. Marcus Thompson",
+			position: "Head of AI Safety", 
 			company: "Anthropic",
 			quote:
-				"Verita AI reduced our subjective annotation time by 60% while dramatically improving label quality. Their creative domain experts understand nuance that crowdsourced annotators completely miss—this is the difference between training models that perform well on benchmarks versus models that actually understand human preference.",
-			image: "/generated/image-a-diverse-research-scientist-silhouetted.webp"
+				"The trajectory datasets and world-model simulations from Verita AI accelerated our research timeline by months. Their domain specialists deliver the nuanced, expert-curated data that foundation models need to develop true understanding, not just pattern matching.",
+			image: "/generated/image-a-professional-female-executive-in-a-cor.webp"
 		},
 		{
-			name: "Sarah Chen",
-			position: "CTO", 
-			company: "Runway AI",
-			quote:
-				"As an AI startup focused on creative tools, we needed annotators who understand visual storytelling and aesthetic judgment. Verita's network of domain experts from Pixar and creative industries delivered the specialized datasets that differentiated our models in a crowded market.",
-			image: "/generated/image-a-creative-leader-in-a-design-studio-abs.webp"
-		},
-		{
-			name: "Michael Rodriguez",
-			position: "Head of AI Operations",
+			name: "Elena Rodriguez",
+			position: "Chief AI Officer",
 			company: "JPMorgan Chase", 
 			quote:
-				"Verita Intelligence transformed our KYC workflows with secure AI agents that maintain compliance while scaling operations. The human-in-the-loop guardrails and audit logs gave us confidence to deploy in our regulated environment—no more brittle RPA bots.",
-			image: "/generated/image-a-fintech-executive-in-a-professional-of.webp"
+				"Verita Intelligence transformed our regulated workflows with secure AI agents that maintain compliance while scaling operations. The human-in-the-loop controls and audit logs gave us confidence to automate KYC and fraud detection—no more brittle RPA systems.",
+			image: "/generated/image-a-research-scientist-in-a-modern-laborat.webp"
 		}
 	]}
 />

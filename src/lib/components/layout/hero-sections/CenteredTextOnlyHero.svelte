@@ -70,14 +70,14 @@ Takes up the full viewport height and centers content vertically.
 			{#if callsToAction.length > 0}
 				<div class="mt-8 flex gap-4" data-enter>
 					{#each callsToAction as cta, index}
-						<Button href={cta.href} size="lg" variant="secondary" class="bg-white text-black hover:bg-white/90 max-lg:hidden"
+						<Button href={cta.href} size="lg" variant="primary" class="max-lg:hidden"
 							>{cta.label}</Button
 						>
 						<Button
 							href={cta.href}
 							size="md"
-							variant={index % 2 === 0 ? "secondary" : "ghost"}
-							class="bg-white text-black hover:bg-white/90 lg:hidden">{cta.label}</Button
+							variant="primary"
+							class="lg:hidden">{cta.label}</Button
 						>
 					{/each}
 				</div>

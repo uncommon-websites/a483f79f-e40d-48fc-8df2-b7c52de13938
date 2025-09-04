@@ -12,7 +12,7 @@
 <CenteredTextOnlyHero
 	title="Building ground truth for artificial general intelligence"
 	subtitle="Research-first company delivering expert multimodal datasets and enterprise AI agents. We bridge the gap between frontier research and real-world deployment, advancing the path to AGI through human-centered data and systems."
-	imageSrc="/generated/image-a-silhouette-of-a-person-standing-on-the.webp"
+	imageSrc="/generated/image-a-thoughtful-researcher-in-a-warm-natura.webp"
 />
 <LogoScroller 
 	label="Trusted by AI research leaders"
@@ -39,7 +39,7 @@ We are a research-first company founded on the belief that advancing AI requires
 			company: "Anthropic",
 			quote:
 				"Verita AI reduced our subjective annotation time by 60% while dramatically improving label quality. Their creative domain experts understand nuance that crowdsourced annotators completely miss—this is the difference between training models that perform well on benchmarks versus models that actually understand human preference.",
-			image: "/generated/image-a-diverse-team-of-researchers-in-a-moder.webp"
+			image: "/generated/image-a-diverse-research-scientist-silhouetted.webp"
 		},
 		{
 			name: "Sarah Chen",
@@ -47,7 +47,7 @@ We are a research-first company founded on the belief that advancing AI requires
 			company: "Runway AI",
 			quote:
 				"As an AI startup focused on creative tools, we needed annotators who understand visual storytelling and aesthetic judgment. Verita's network of domain experts from Pixar and creative industries delivered the specialized datasets that differentiated our models in a crowded market.",
-			image: "/generated/image-a-thoughtful-researcher-in-a-lab-coat-de.webp"
+			image: "/generated/image-a-creative-leader-in-a-design-studio-abs.webp"
 		},
 		{
 			name: "Michael Rodriguez",
@@ -55,7 +55,7 @@ We are a research-first company founded on the belief that advancing AI requires
 			company: "JPMorgan Chase", 
 			quote:
 				"Verita Intelligence transformed our KYC workflows with secure AI agents that maintain compliance while scaling operations. The human-in-the-loop guardrails and audit logs gave us confidence to deploy in our regulated environment—no more brittle RPA bots.",
-			image: "/generated/image-modern-fintech-office-with-professionals.webp"
+			image: "/generated/image-a-fintech-executive-in-a-professional-of.webp"
 		}
 	]}
 />
@@ -101,7 +101,7 @@ We are a research-first company founded on the belief that advancing AI requires
 	title="Let your models learn judgment, not just patterns"
 	subtitle="Start training with expert-curated, multimodal data designed to reflect real human reasoning—across text, image, audio, and video."
 	description="Explore how Verita AI can accelerate your research, reduce annotation overhead, and give your team an edge in a $50B training data market."
-	imageSrc="/generated/image-a-cheerful-research-scientist-in-a-moder.webp"
+	imageSrc="/generated/image-a-research-scientist-engaged-in-work-sur.webp"
 	callsToAction={[
 		{
 			href: "/contact",

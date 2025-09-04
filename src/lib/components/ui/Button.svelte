@@ -33,9 +33,9 @@
 
 	// Styles
 	const variants: Record<Variant, string> = {
-		primary: "",
-		secondary: "",
-		ghost: ""
+		primary: "bg-primary text-primary-foreground hover:bg-primary/90",
+		secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80 border border-border",
+		ghost: "hover:bg-accent hover:text-accent-foreground"
 	};
 
 	const sizes: Record<Size, string> = $derived({

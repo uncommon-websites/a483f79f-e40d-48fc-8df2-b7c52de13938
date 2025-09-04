@@ -11,7 +11,7 @@
 <CenteredTextOnlyHero
 	title="AI can see and hear. Now it can judge."
 	subtitle="Train multimodal models with expert-annotated data. Verita brings human-level taste, context, and nuance to the most complex creative tasks."
-	imageSrc="/generated/image-a-professional-researcher-sits-at-a-wood.webp"
+	imageSrc="/generated/image-a-researcher-absorbed-in-their-work-sitt.webp"
 />
 <LogoScroller 
 	label="Trusted by AI research leaders"

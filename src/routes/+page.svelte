@@ -9,8 +9,8 @@
 </script>
 
 <CenteredTextOnlyHero
-	title="Expert data for AI that thinks like humans"
-	subtitle="We deliver multimodal datasets and AI agents that understand judgment, not just patterns."
+	title="The missing ingredient in AI training: judgment"
+	subtitle="Today's multimodal models are trained on generic labels from gig workers. Verita gives you expert-level annotation from creative professionals who understand context, nuance, and subjective quality."
 	imageSrc="/generated/image-a-professional-researcher-sits-at-a-wood.webp"
 />
 <LogoScroller 
@@ -24,53 +24,53 @@
 />
 
 <Summary
-	title="Expert data and AI agents"
-	text="We provide two solutions: multimodal datasets that teach AI human judgment, and secure AI agents for enterprise workflows. Both built with research-first principles."
+	title="Training AI to think, not just process"
+	text="We curate expert-annotated multimodal datasets for subjective domains like design, writing, and visual storytelling. While others provide crowdsourced labels, we deliver the human judgment that creative AI systems need to truly understand context and quality."
 />
 
  
 
 <Features
-	title="What we do"
-	subtitle="Expert data and secure AI agents built for the future"
+	title="Why frontier labs choose Verita"
+	subtitle="The annotation platform built for creative AI systems"
 	features={[
 		{
-			title: "Multimodal datasets",
+			title: "Expert-curated datasets",
 			description:
-				"Expert-curated data across text, audio, video, and design that teaches AI human judgment."
+				"Multimodal data labeled by domain specialists from Pixar, MIT, and top creative organizations, not crowdsourced gig workers."
 		},
 		{
-			title: "Enterprise AI agents",
+			title: "Subjective reasoning annotation",
 			description:
-				"Secure AI automation for regulated workflows with human oversight and audit trails."
+				"Labels that capture taste, intent, and creative judgment for training AI systems that understand context, not just content."
 		},
 		{
-			title: "Expert network",
+			title: "Domain specialist network",
 			description:
-				"3,000+ domain specialists from creative industries, research labs, and technical fields."
+				"3,000+ professionals from creative industries who understand what good looks like in design, writing, and visual storytelling."
 		},
 		{
-			title: "Research-first approach",
+			title: "Research-grade methodology",
 			description:
-				"Every decision guided by advancing AI science and real-world deployment needs."
+				"Every annotation process designed with AI researchers to ensure data quality that advances the science, not just the metrics."
 		},
 		{
-			title: "Fast delivery",
+			title: "Rapid deployment",
 			description:
-				"From rapid prototypes to production systems in days, not months."
+				"From concept to labeled dataset in weeks, not months, with iterative feedback loops built for research timelines."
 		},
 		{
-			title: "Enterprise security",
+			title: "Secure infrastructure",
 			description:
-				"Zero data egress, compliance frameworks, and audit logs for regulated industries."
+				"Enterprise-grade security with zero data egress, compliance frameworks, and full audit trails for sensitive model training."
 		}
 	]}
 />
 <AboutTeaser />
 <CallToAction
-	title="Ready to get started?"
-	subtitle="See how expert data and AI agents can transform your work."
-	description="Book a demo to explore our solutions."
+	title="See the quality difference"
+	subtitle="Compare our expert annotations with crowdsourced labels and discover why frontier labs trust Verita for their most important training data."
+	description="Book a demo to see how domain expertise transforms AI training."
 	imageSrc="/generated/image-a-clean-modern-office-space-bathed-in-na.webp"
 	callsToAction={[
 		{

@@ -9,8 +9,8 @@
 </script>
 
 <CenteredTextOnlyHero
-	title="The missing ingredient in AI training: judgment"
-	subtitle="Today's multimodal models are trained on generic labels from gig workers. Verita gives you expert-level annotation from creative professionals who understand context, nuance, and subjective quality."
+	title="AI can see and hear. Now it can judge."
+	subtitle="Train multimodal models with expert-annotated data. Verita brings human-level taste, context, and nuance to the most complex creative tasks."
 	imageSrc="/generated/image-a-professional-researcher-sits-at-a-wood.webp"
 />
 <LogoScroller 

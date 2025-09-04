@@ -28,7 +28,7 @@
 <SecondaryHero
 	title="Building ground truth for the next generation of intelligence"
 	subtitle="We transform AI models into creative reasoning systems through expert-curated multimodal datasets that teach machines taste, judgment, and human-level understanding"
-	imageSrc="/generated/image-a-group-of-ai-researchers-and-data-annot.webp"
+	imageSrc="/generated/image-abstract-geometric-patterns-with-orange-.webp"
 />
 
 <!-- About Verita AI Section -->

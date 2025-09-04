@@ -14,17 +14,17 @@
 	} = $props();
 </script>
 
-<header class="relative bg-gradient-to-br from-primary-50 to-primary-100 border-b border-primary-200" {...rest}>
+<header class=" relative" {...rest}>
 	<div class="section-px section-py container mx-auto grid gap-16 gap-y-0">
 		<div class="section-pb-sm container-sm grid text-balance">
-			<h1 class="text-display font-[450] text-primary-900 mb-6">
+			<h1 class="text-display mb-6 font-[450] text-white">
 				{title}
 			</h1>
-			<p class="text-title3 text-primary-700 font-normal">
+			<p class="text-title3 font-normal text-gray-500">
 				{subtitle}
 			</p>
 		</div>
-		<div class="aspect-video overflow-clip rounded-xl bg-white shadow-sm border border-primary-200">
+		<div class=" aspect-video overflow-clip rounded-xl bg-white shadow-sm">
 			<img
 				class="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
 				src={imageSrc}

@@ -54,13 +54,7 @@
 			name: "Rithika Kacham",
 			position: "CEO & Founder",
 			bio: "Leading Verita AI's mission to bring human-level creative judgment to foundation models through expert-curated training data.",
-			image: "/generated/image-a-professional-headshot-of-rithika-kacha.webp"
-		},
-		{
-			name: "Rishi Kalakuntla",
-			position: "Co-Founder",
-			bio: "Building the technical infrastructure that enables creative professionals to teach AI models subjective reasoning across modalities.",
-			image: "/generated/image-a-professional-headshot-of-rishi-kalakun.webp"
+			image: "/uploaded/1757026595370-fr26wr0.jpg"
 		}
 	]}
 />

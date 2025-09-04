@@ -23,7 +23,7 @@ A minimalist teaser for the about page.
 	const teamMember: TeamMember = {
 		name: "Rithika Kacham",
 		role: "Founder & CEO",
-		image: "/generated/image-a-professional-woman-founder-in-a-modern.webp"
+		image: "/uploaded/1757026595370-fr26wr0.jpg"
 	};
 </script>
 

@@ -1,5 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24"><svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
-	<rect x="4" y="4" width="11" height="11" rx="2" fill="currentColor"></rect>
-	<rect x="9" y="9.5" width="10" height="10" rx="2" fill="currentColor" fill-opacity="0.24"></rect>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="89" height="88"><svg viewBox="0 0 89 88" fill="none" xmlns="http://www.w3.org/2000/svg" class="">
+<path d="M44.5271 0V88" stroke="currentColor" stroke-width="4"></path>
+<path d="M0.5271 44L88.5271 44" stroke="currentColor" stroke-width="4"></path>
+<path d="M13.4144 12.8873L75.6398 75.1127" stroke="currentColor" stroke-width="4"></path>
+<path d="M13.4144 75.1128L75.6398 12.8874" stroke="currentColor" stroke-width="4"></path>
+<path d="M61.3652 3.34937L27.689 84.6508" stroke="currentColor" stroke-width="4"></path>
+<path d="M3.87643 27.1619L85.1778 60.838" stroke="currentColor" stroke-width="4"></path>
+<path d="M27.6891 3.34937L61.3652 84.6508" stroke="currentColor" stroke-width="4"></path>
+<path d="M3.8764 60.8381L85.1778 27.162" stroke="currentColor" stroke-width="4"></path>
 </svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
 </style></svg>

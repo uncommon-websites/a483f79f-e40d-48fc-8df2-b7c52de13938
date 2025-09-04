@@ -48,7 +48,7 @@ export type NavItem = {
 
 export const cta = {
 	label: "Book demo",
-	href: "/"
+	href: "/contact"
 };
 
 export const navigation: NavItem[] = [
@@ -85,6 +85,12 @@ export const navigation: NavItem[] = [
 			{
 				label: "Terms",
 				href: "/legal/terms",
+				showInNav: false,
+				showInFooter: true
+			},
+			{
+				label: "Security",
+				href: "/security",
 				showInNav: false,
 				showInFooter: true
 			}

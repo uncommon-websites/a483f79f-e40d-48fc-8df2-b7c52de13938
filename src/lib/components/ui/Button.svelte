@@ -33,9 +33,9 @@
 
 	// Styles
 	const variants: Record<Variant, string> = {
-		primary: "bg-primary text-primary-foreground hover:bg-primary/90",
-		secondary: "bg-secondary text-secondary-foreground hover:bg-secondary/80 border border-border",
-		ghost: "hover:bg-accent hover:text-accent-foreground"
+		primary: "bg-primary text-primary-foreground hover:brightness-90 active:brightness-80",
+		secondary: "bg-card text-foreground border border-border hover:bg-card-hover active:brightness-95",
+		ghost: "bg-transparent text-foreground hover:bg-accent active:brightness-95"
 	};
 
 	const sizes: Record<Size, string> = $derived({
@@ -45,7 +45,7 @@
 	});
 
 	const baseStyles =
-		"inline-flex items-center ring-1 ring-white/15 ring-inset justify-center !font-semibold transition ease-out duration-300 focus:outline-none focus:ring-0 active:brightness-[.9] active:scale-[.98] ring-0 gap-3 [touch-action:manipulation]";
+		"inline-flex items-center justify-center font-semibold transition-all duration-200 focus:outline-none focus-visible:outline-2 focus-visible:outline-ring focus-visible:outline-offset-2 active:scale-[0.98] disabled:pointer-events-none disabled:opacity-50 [touch-action:manipulation]";
 </script>
 
 <Button.Root

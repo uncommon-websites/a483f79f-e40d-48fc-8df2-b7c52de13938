@@ -190,5 +190,9 @@
   {
     "prompt": "A researcher in a warmly lit library, surrounded by shelves of books. The scene captures the late-day sunlight streaming through a window, casting long shadows across the wooden floor. The researcher, absorbed in reading a paper, subtly wears a scarf with a hint of orange. The environment feels authentic and lived-in, with papers scattered on a nearby desk. The composition is wide, allowing the library's architecture to breathe and emphasizing the intellectual atmosphere.",
     "filename": "/generated/image-a-researcher-in-a-warmly-lit-library-sur.webp"
+  },
+  {
+    "prompt": "A candid scene of an editorial team collaborating in a professional workspace. The environment is bathed in warm, natural orange tones, reminiscent of late-day sunlight filtering through large windows. Team members are engaged in thoughtful discussion, surrounded by real, lived-in office elements like bookshelves, plants, and wooden furniture. The atmosphere is quiet and intense, capturing the seriousness and curiosity of their work. The composition includes ample negative space, with team members positioned naturally within the room, some at desks, others standing in conversation. The lighting is soft and diffused, casting realistic shadows that add depth to the scene. The overall vibe is sophisticated and grounded, with a subtle filmic grading that enhances the authenticity of the image.",
+    "filename": "/generated/image-a-candid-scene-of-an-editorial-team-coll.webp"
   }
 ]

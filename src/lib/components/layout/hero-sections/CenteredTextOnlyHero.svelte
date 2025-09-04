@@ -35,8 +35,20 @@ Takes up the full viewport height and centers content vertically.
 </script>
 
 <div class="grid h-[calc(100vh-var(--nav-height))] grid-rows-[1fr_auto]" {...rest}>
-	<div class="relative isolate flex items-center justify-center bg-gradient-to-br from-primary-400 via-primary-600 to-gray-900">
-		<!-- Sexy orange to black gradient background -->
+	<div class="relative isolate flex items-center justify-center overflow-hidden">
+		<!-- Full-screen background video -->
+		<video 
+			class="absolute inset-0 h-full w-full object-cover -z-10"
+			autoplay 
+			muted 
+			loop 
+			playsinline
+		>
+			<source src="/hero.mp4" type="video/mp4" />
+		</video>
+		
+		<!-- Dark overlay for text readability -->
+		<div class="absolute inset-0 bg-black/40 -z-5"></div>
 
 		<header
 			class="section-px z-50 container mx-auto grid place-items-center text-center text-balance text-white"

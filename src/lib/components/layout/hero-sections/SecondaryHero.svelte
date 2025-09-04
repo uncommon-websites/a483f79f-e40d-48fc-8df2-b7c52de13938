@@ -26,7 +26,7 @@
 		</div>
 		<div class=" aspect-video overflow-clip rounded-xl bg-white shadow-sm">
 			<img
-				class="h-full w-full object-cover transition-transform duration-300 hover:scale-105"
+				class="h-full w-full object-cover"
 				src={imageSrc}
 				alt="Verita AI team collaborating on AI training data"
 			/>

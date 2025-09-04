@@ -10,9 +10,9 @@
 </script>
 
 <CenteredTextOnlyHero
-	title="Bringing human judgment to multimodal models"
-	subtitle="Train foundation models with expert-curated data that teaches taste, nuance, and subjective reasoning—where crowdsourcing falls short."
-	imageSrc="/generated/image-a-serene-lavender-field-at-sunset-with-a.webp"
+	title="Building ground truth for artificial general intelligence"
+	subtitle="Research-first company delivering expert multimodal datasets and enterprise AI agents. We bridge the gap between frontier research and real-world deployment, advancing the path to AGI through human-centered data and systems."
+	imageSrc="/generated/image-a-silhouette-of-a-person-standing-on-the.webp"
 />
 <LogoScroller 
 	label="Trusted by AI research leaders"
@@ -25,10 +25,10 @@
 />
 
 <Summary
-	title="What we do"
-	text="Verita AI helps foundation model labs like OpenAI and Anthropic train models that reason with human-level creative judgment. We provide expert-curated annotations across text, image, audio, and video—designed to teach models the kind of nuance, context, and taste that crowdsourcing can't capture.
+	title="Building ground truth for the next generation of intelligence"
+	text="The name Verita comes from the Latin word for truth. In machine learning, ground truth is the foundation on which models are trained and evaluated. At Verita AI, we see ourselves as builders of that truth layer for artificial intelligence.
 
-Subjectivity, nuance, and taste aren't optional in human intelligence—your training data shouldn't treat them like they are."
+We are a research-first company founded on the belief that advancing AI requires not only cutting-edge models, but also rigorous data, robust evaluation, and human judgment at scale. Our work blends the precision of science with the imagination of art, pushing the frontier of multimodal data and enterprise AI systems that move the world closer to AGI."
 />
 
 <Testimonials
@@ -39,60 +39,60 @@ Subjectivity, nuance, and taste aren't optional in human intelligence—your tra
 			company: "Anthropic",
 			quote:
 				"Verita AI reduced our subjective annotation time by 60% while dramatically improving label quality. Their creative domain experts understand nuance that crowdsourced annotators completely miss—this is the difference between training models that perform well on benchmarks versus models that actually understand human preference.",
-			image: "/generated/image-a-professional-headshot-of-dr-priya-meht.webp"
+			image: "/generated/image-a-diverse-team-of-researchers-in-a-moder.webp"
 		},
 		{
-			name: "Dr. Marcus Thompson",
-			position: "Principal ML Engineer", 
-			company: "OpenAI",
+			name: "Sarah Chen",
+			position: "CTO", 
+			company: "Runway AI",
 			quote:
-				"After switching to Verita AI's expert-curated data, our multimodal model's performance on subjective reasoning tasks improved by 40%. The risk of deploying models trained on noisy crowdsourced labels was too high—their domain expertise in creative fields solved our quality bottleneck.",
-			image: "/generated/image-a-professional-headshot-of-dr-marcus-tho.webp"
+				"As an AI startup focused on creative tools, we needed annotators who understand visual storytelling and aesthetic judgment. Verita's network of domain experts from Pixar and creative industries delivered the specialized datasets that differentiated our models in a crowded market.",
+			image: "/generated/image-a-thoughtful-researcher-in-a-lab-coat-de.webp"
 		},
 		{
-			name: "Dr. Elena Rodriguez",
-			position: "Research Director",
-			company: "Stability AI", 
+			name: "Michael Rodriguez",
+			position: "Head of AI Operations",
+			company: "JPMorgan Chase", 
 			quote:
-				"Verita AI's annotators saved us months of iteration cycles. Instead of discovering taste and preference gaps after model deployment, their creative professionals identify subjective reasoning issues during training. This prevented costly model retraining and accelerated our research timeline significantly.",
-			image: "/generated/image-a-professional-headshot-of-dr-elena-rodr.webp"
+				"Verita Intelligence transformed our KYC workflows with secure AI agents that maintain compliance while scaling operations. The human-in-the-loop guardrails and audit logs gave us confidence to deploy in our regulated environment—no more brittle RPA bots.",
+			image: "/generated/image-modern-fintech-office-with-professionals.webp"
 		}
 	]}
 />
 
 <Features
-	title="Why foundation model labs choose Verita"
-	subtitle="Expert-curated training data that teaches machines human-level judgment across modalities"
+	title="Two integrated products advancing intelligence"
+	subtitle="Speed, quality, and research-first principles guide everything we build—from multimodal datasets to enterprise AI agents"
 	features={[
 		{
-			title: "Expert-curated multimodal annotations",
+			title: "Verita AI: Multimodal Data Services",
 			description:
-				"Domain experts from creative fields provide nuanced feedback on taste-based tasks that crowdsourced data simply cannot capture. Our curated network delivers the subjective reasoning your models need."
+				"Expert-curated annotation across text, audio, video, design, bio, and robotics. Domain specialists from Pixar, MIT, and creative industries deliver trajectory datasets, world-model simulations, and benchmark rubrics that teach models human-level reasoning."
 		},
 		{
-			title: "Human-level creative judgment",
+			title: "Verita Intelligence: Enterprise AI Agents",
 			description:
-				"Train models to understand taste, nuance, and aesthetic reasoning across text, image, audio, and video with annotations that go beyond binary labels."
+				"Transform SOPs into Agent Operating Procedures (AOPs) for regulated workflows. Secure on-prem deployment with zero data egress, human-in-the-loop controls, and audit logs for fintech, healthcare, and insurance automation."
 		},
 		{
-			title: "Scale without compromising quality",
+			title: "3,000+ expert annotator marketplace",
 			description:
-				"Reach millions of expert annotations monthly while maintaining the domain expertise that makes training data truly valuable for foundation models."
+				"Vetted domain specialists across creative fields, multiple languages, multi-turn conversations, video experts, acting coaches, bio researchers, and robotics engineers. Incentive systems with bonuses and prizes ensure quality that crowdsourcing cannot match."
 		},
 		{
-			title: "Beyond crowdsourcing limitations",
+			title: "Research-first methodology",
 			description:
-				"Move past low-quality crowd annotations that lack domain expertise and miss the subjective nuances critical for advanced AI capabilities."
+				"Every decision guided by advancing AI science toward AGI. Our team has scaled data pipelines for frontier labs, partnering with institutions on regulated deployments while pushing new ideas in multimodal learning and agentic systems."
 		},
 		{
-			title: "Multimodal training excellence",
+			title: "Frontier-speed execution",
 			description:
-				"Seamlessly handle text, image, audio, and video training data with consistent quality standards across all modalities for comprehensive model development."
+				"Deliver 1,000+ multi-turn trajectories in 24 hours or six-figure enterprise SOWs under tight deadlines. We operate at the pace research and enterprise demand, from rapid prototypes to production deployment."
 		},
 		{
-			title: "Research-grade data operations",
+			title: "Enterprise-grade infrastructure",
 			description:
-				"Benefit from ex-Scale AI operators who understand the technical requirements and quality standards that foundation model labs demand."
+				"White-glove US-based project management, secure VPC deployment with zero data egress, compliance frameworks, robust audit logs, and governance systems that meet the highest standards for regulated industries."
 		}
 	]}
 />

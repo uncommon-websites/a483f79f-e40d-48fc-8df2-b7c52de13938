@@ -35,21 +35,21 @@ Takes up the full viewport height and centers content vertically.
 </script>
 
 <div class="grid h-[calc(100vh-var(--nav-height))] grid-rows-[1fr_auto]" {...rest}>
-	<div class="bg-background relative isolate flex items-center justify-center">
-		<!-- Background image removed -->
+	<div class="relative isolate flex items-center justify-center bg-gradient-to-br from-primary-400 via-primary-600 to-gray-900">
+		<!-- Sexy orange to black gradient background -->
 
 		<header
-			class="section-px z-50 container mx-auto grid place-items-center text-center text-balance dark:text-white"
+			class="section-px z-50 container mx-auto grid place-items-center text-center text-balance text-white"
 			data-enter-container
 		>
 			<div class="grid max-w-prose place-items-center justify-center gap-6 lg:max-w-[80ch]">
-				<h1 class="text-display w-full text-balance lg:!text-7xl dark:text-shadow-lg" data-enter>
+				<h1 class="text-display w-full text-balance lg:!text-7xl text-white drop-shadow-lg" data-enter>
 					<span class="block"><AnimateText text={title} /></span>
 				</h1>
 
 				<p
 					data-enter
-					class="text-headline block max-w-[45ch] text-pretty opacity-80 transition duration-500 ease-out dark:text-shadow-lg"
+					class="text-headline block max-w-[45ch] text-pretty text-white/90 transition duration-500 ease-out drop-shadow-md"
 				>
 					{subtitle}
 				</p>
@@ -58,14 +58,14 @@ Takes up the full viewport height and centers content vertically.
 			{#if callsToAction.length > 0}
 				<div class="mt-8 flex gap-4" data-enter>
 					{#each callsToAction as cta, index}
-						<Button href={cta.href} size="lg" variant="secondary" class="text-black max-lg:hidden"
+						<Button href={cta.href} size="lg" variant="secondary" class="bg-white text-black hover:bg-white/90 max-lg:hidden"
 							>{cta.label}</Button
 						>
 						<Button
 							href={cta.href}
 							size="md"
 							variant={index % 2 === 0 ? "secondary" : "ghost"}
-							class="lg:hidden">{cta.label}</Button
+							class="bg-white text-black hover:bg-white/90 lg:hidden">{cta.label}</Button
 						>
 					{/each}
 				</div>

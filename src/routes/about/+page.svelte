@@ -70,5 +70,5 @@
 	title="Ready to build ground truth for your AI?"
 	subtitle="Partner with domain experts"
 	description="Join leading foundation model labs who trust Verita AI to deliver the expert-curated multimodal training data that enables human-level creative reasoning in their models."
-	imageSrc="/generated/image-a-professional-ai-researcher-is-deeply-f.webp"
+	imageSrc="/generated/image-a-candid-photograph-of-a-researcher-in-a.webp"
 />
